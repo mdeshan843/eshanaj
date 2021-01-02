@@ -1,0 +1,337 @@
+header#minHeader {
+    background: linear-gradient(#286fbed1,#0951a0f0), url(../Image/khalid.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 375px;
+}
+.logo h3 {
+    color: white;
+    padding: 18px;
+    padding-left: 90px;
+    float: left;
+    font-family: arial;
+}
+ul.minMenuItem {
+    list-style: none;
+    display: flex;
+    float: right;
+}
+.menu {
+    width: 94%;
+}
+
+ul.minMenuItem li a {
+    text-decoration: none;
+    padding: 30px 30px;
+    color: white;
+    font-family: arial;
+    padding-top: 28px;
+    display: block;
+    font-size: 16px;
+}
+.aboutUS {color: white;font-family: arial;}
+
+h3.contat {
+    text-align: center;
+    padding-top: 123px;
+}
+h1.contatTwo {
+    text-align: center;
+}
+
+p.paragarp {
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 616px;
+    padding-left: 470px;
+}
+header#minHeader {
+    border-bottom-right-radius: 100px;
+}
+.conttact {
+    padding: 55px;
+    text-align: center;
+    font-family: arial;
+    top: 0;
+}
+.input {
+    float: right;
+    width: 50%;
+}
+
+.image {
+    float: left;
+    width: 50%;
+}
+input[type="name"] {
+    padding: 22px;
+    width: 69%;
+    border-bottom-right-radius: 50px;
+    border: none;
+    background: #dfdfdf;
+}
+input[type="email"] {
+    width: 69%;
+    padding: 22px;
+    background: #dfdfdf;
+    border: none;
+    border-bottom-right-radius: 50px;
+}
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    padding: 22px;
+    width: 75%;
+    border-bottom-right-radius: 45px;
+    border: none;
+    background: #dfdfdf;
+}
+textarea {
+    resize: none;
+    padding: 22px;
+    width: 69%;
+    border-bottom-right-radius: 50px;
+    border: none;
+    background: #dfdfdf;
+}
+button {
+    padding: 8px 25px;
+    background: #0951a0;
+    color: white;
+    border: none;
+}
+header#minHeader {
+    background: linear-gradient(#286fbed1,#0951a0f0), url(../Image/khalid.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 375px;
+}
+.logo h3 {
+    color: white;
+    padding: 18px;
+    padding-left: 90px;
+    float: left;
+    font-family: arial;
+}
+ul.minMenuItem {
+    list-style: none;
+    display: flex;
+    float: right;
+}
+.menu {
+    width: 94%;
+}
+
+ul.minMenuItem li a {
+    text-decoration: none;
+    padding: 30px 30px;
+    color: white;
+    font-family: arial;
+    padding-top: 28px;
+    display: block;
+    font-size: 16px;
+}
+.aboutUS {color: white;font-family: arial;}
+
+h3.contat {
+    text-align: center;
+    padding-top: 123px;
+}
+h1.contatTwo {
+    text-align: center;
+}
+
+p.paragarp {
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 30px;
+    width: 616px;
+    margin-left: -91px;
+    padding-left: 400px;
+}
+header#minHeader {
+    border-bottom-right-radius: 100px;
+}
+.conttact {
+    padding: 55px;
+    text-align: center;
+    font-family: arial;
+    top: 0;
+}
+.input {
+    float: right;
+    width: 50%;
+}
+
+.image {
+    float: left;
+    width: 50%;
+}
+input[type="name"] {
+    padding: 22px;
+    width: 69%;
+    border-bottom-right-radius: 45px;
+    border: none;
+    background: #dfdfdf;
+}
+input[type="email"] {
+    width: 69%;
+    padding: 22px;
+    background: #dfdfdf;
+    border: none;
+    border-bottom-right-radius: 45px;
+}
+select {
+    padding: 22px;
+    width: 75%;
+    border-bottom-right-radius: 45px;
+    border: none;
+    background: #dfdfdf;
+}
+textarea {
+    padding: 22px;
+    width: 69%;
+    border-bottom-right-radius: 45px;
+    border: none;
+    background: #dfdfdf;
+}
+button {
+    padding: 11px 25px;
+    background: #0951a0;
+    color: white;
+    border: none;
+    font-family: arial;
+    border-radius: 16px;
+    transition: 0.5s;
+}
+button:hover{
+    background:#565b61;
+    box-shadow: 0px 0px #565b61;
+}
+section#medel {
+    display: block;
+    overflow: hidden;
+}
+footer#lastpage {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 320px;
+    background: linear-gradient(#286fbed1,#0951a0f0);
+    padding-top: 200px;
+    border-top-left-radius: 100px;
+}
+
+.container {
+    width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+}
+
+.fboxWrapper {
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+
+.fbox {
+    margin-right: 30px;
+    overflow: hidden;
+    width: 250px;
+    float: left;
+    color: white;
+    font-family: arial;
+}
+
+h3 {
+    color: white;
+    margin-bottom: 18px;
+}
+
+.fbox p {
+    line-height: 25px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+ul#fboxlist li {
+    list-style: none;
+}
+
+ul#fboxlist li a {
+    color: white;
+    text-decoration: none;
+    margin-left: -40px;
+    line-height: 2;
+}
+button.fbutton {
+    background: white;
+    color: #0951a0;
+    font-family: arial;
+    transition: .5s;
+}
+
+button.fbutton:hover {
+    background: #88128c;
+    color: white;
+}
+ul.socialmedia a {
+    width: 30px;
+    height: 30px;
+    float: left;
+    border: 1px solid white;
+    display: grid;
+    place-items: center;
+    border-radius: 100px;
+    margin-right: 17px;
+    color: white;
+}
+
+ul.socialmedia {
+    overflow: hidden;
+}
+ul.socialmedia a:hover {
+    background: #3b5998;
+}
+.copyrightContainer {
+    overflow: hidden;
+    color: white;
+    border-top: 1px solid #999;
+    padding: 19px;
+}
+section#subscribe {
+    position: relative;
+    margin-bottom: -165px;
+}
+
+.Subcontainer {
+    width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+}
+
+.subBoxWrapper {
+    overflow: hidden;
+    background: white;
+    padding-bottom: 20px;
+    border-top-left-radius: 63px;
+    box-shadow: 0px 0px 10px 0px #7a7777;
+}
+
+.subBoxSingle {
+    width: 320px;
+    float: left;
+    padding: 30px;
+    overflow: hidden;
+    font-family: arial;
+}
+
+
+
+/*    width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;*/
